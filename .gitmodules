@@ -1,0 +1,3 @@
+[submodule "jmoka-engine"]
+	path = jmoka-engine
+	url = https://github.com/Shelo/jmoka-engine.git
